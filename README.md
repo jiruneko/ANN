@@ -1,1 +1,1 @@
-# ANN（Artificial newral network）
+# ANN（Artificial Newral Network）
